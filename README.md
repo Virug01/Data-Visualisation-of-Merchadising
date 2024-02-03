@@ -1,1 +1,1 @@
-This is the project of a Clothing store named as "Vrinda Store" where there are numerous of products for all types of age group and I made some insights from the given data to enhance the sale and i also prepared the dashboard to give better understanding to the client.   
+This is the project of a Clothing store named as "Vrinda Store" where there are numerous of products for all types of age group and I made some insights from the given data to enhance the sale and I also prepared the dashboard to give better understanding to the client.   
